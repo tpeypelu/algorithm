@@ -1,0 +1,3 @@
+# Algorithm in Rust
+
+Implements differents structures in Rust, like List, Tree, Graph, ...
